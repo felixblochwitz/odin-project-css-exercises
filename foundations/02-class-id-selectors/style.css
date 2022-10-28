@@ -1,0 +1,22 @@
+* {
+  font-family: sans-serif;
+}
+
+.standard {
+  background-color: pink;
+}
+
+.standard.extended {
+  font-size: 25px;
+}
+
+#number-one{
+  color: blue;
+  font-size: 35px;
+}
+
+#number-two{
+  font-weight: bold;
+  background-color: lightgreen;
+  font-size: 25px;
+}
